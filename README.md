@@ -15,7 +15,7 @@ You will need to use a linux distro this has been tested on Ubuntu 20.04 LTS you
 
 - Just, Clone this repository -
 ```
-$ git clone git://github.com/htr-tech/zphisher.git
+$ git clone https://github.com/CylindricAnt606/Phising-pages.git
 ```
 
 - Change to cloned directory and run `zphisher.sh` -
@@ -24,22 +24,16 @@ $ cd zphisher
 $ sudo bash zphisher.sh
 ```
 
-- On first launch, It'll install the dependencies and that's it. `Zphisher` is installed.
-
-### Run on Docker
-```
-$ docker pull htrtech/zphisher
-$ docker run --rm -it htrtech/zphisher
-```
+- On first launch, It'll install the dependencies and that's it. `Phising-pages` is installed.
 
 ### Dependencies
 
-**`Zphisher`** requires following programs to run properly - 
+**`Phising-pages`** requires following programs to run properly - 
 - `php`
 - `wget`
 - `curl`
 - `git`
 
-> All the dependencies will be installed automatically when you run `Zphisher` for the first time.
+> All the dependencies will be installed automatically when you run `Phishing-pages` for the first time.
 
 > Supported Platform : **`Termux`**, **`Ubuntu/Debian/Kali`**, **`Arch Linux/Manjaro`**, **`Fedora`**
