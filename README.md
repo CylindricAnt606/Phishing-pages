@@ -11,6 +11,8 @@
 
 ### Installation
 
+You will need to use a linux distro this has been tested on Ubuntu 20.04 LTS you can download a distro for free if using windows you can use the windows subsystem for linux feature and download ubuntu from the microsoft store https://www.microsoft.com/en-us/p/ubuntu-2004-lts/9n6svws3rx71?activetab=pivot:overviewtab after enabling WSL Then after that follow these instructions.
+
 - Just, Clone this repository -
 ```
 $ git clone git://github.com/htr-tech/zphisher.git
@@ -19,7 +21,7 @@ $ git clone git://github.com/htr-tech/zphisher.git
 - Change to cloned directory and run `zphisher.sh` -
 ```
 $ cd zphisher
-$ bash zphisher.sh
+$ sudo bash zphisher.sh
 ```
 
 - On first launch, It'll install the dependencies and that's it. `Zphisher` is installed.
