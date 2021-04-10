@@ -20,7 +20,7 @@ $ git clone https://github.com/CylindricAnt606/Phising-pages.git
 
 - Change to cloned directory and run `zphisher.sh` -
 ```
-$ cd zphisher
+$ cd Phising-pages
 $ sudo bash zphisher.sh
 ```
 
